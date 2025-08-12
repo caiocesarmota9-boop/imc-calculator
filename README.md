@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 **HTML5** → Estrutura da página  
 **CSS3** → Estilização e layout  
 **JavaScript** → Lógica do cálculo do IMC  
@@ -23,10 +23,10 @@
 ---
 
 ##  Funcionalidades
-✔ Inserir peso (kg) e altura (m)  
-✔ Calcular automaticamente o IMC  
-✔ Exibir classificação (abaixo do peso, normal, sobrepeso, obesidade)  
-✔ Interface simples e responsiva  
+Inserir peso (kg) e altura (m)  
+Calcular automaticamente o IMC  
+Exibir classificação (abaixo do peso, normal, sobrepeso, obesidade)  
+Interface simples e responsiva  
 
 ---
 
