@@ -1,7 +1,7 @@
 <h1 align="center">🧮 Calculadora de IMC</h1>
 
 <p align="center">
-  <img src="preview.png" width="500" alt="Prévia do projeto">
+  <<img src="imc.png" width="500" alt="Prévia do projeto">
 </p>
 
 <p align="center">
