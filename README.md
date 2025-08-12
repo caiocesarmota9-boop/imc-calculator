@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 Demonstração
-🔗 **Acesse online:** [Clique aqui](https://caiocesarmota9-boop.github.io/imc-calculator)  
+🔗 **Acesse online:** [Clique aqui](https://github.com/caiocesarmota9-boop/imc-calculator)  
 
 ---
 
