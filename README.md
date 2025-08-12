@@ -28,6 +28,4 @@ Calcular automaticamente o IMC
 Exibir classificação (abaixo do peso, normal, sobrepeso, obesidade)  
 Interface simples e responsiva  
 
----
 
-##  Estrutura do Projeto
